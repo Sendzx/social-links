@@ -172,28 +172,6 @@ header span {
   background: linear-gradient(110deg, #ffffff, #f3f0ff);
 }
 
-.link-card--support {
-  width: 100%;
-  border-color: #c93f64;
-  background: linear-gradient(110deg, #e84970, #d83257);
-  color: #fff;
-  box-shadow: 0 8px 20px rgba(216, 50, 87, 0.24);
-  -webkit-tap-highlight-color: transparent;
-}
-
-.link-card--support .link-card__copy > span,
-.link-card--support .link-card__arrow {
-  color: rgba(255, 255, 255, 0.88);
-}
-
-.link-card--support .link-card__icon {
-  background: #fff;
-}
-
-.link-card--support .link-card__icon svg {
-  color: #d83257;
-}
-
 .link-card__icon {
   display: grid;
   width: 42px;
